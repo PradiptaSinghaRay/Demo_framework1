@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-from Framework_1.pages.base_page import BasePage
+from pages.base_page import BasePage
 
 class RegisterPage(BasePage):
 
