@@ -1,4 +1,4 @@
-from Framework_1.pages.login import LoginPage
+from pages.login import LoginPage
 import pytest
 
 @pytest.mark.smoke
