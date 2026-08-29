@@ -1,4 +1,4 @@
-from Framework_1.pages.register import RegisterPage
+from pages.register import RegisterPage
 import pytest
 
 @pytest.mark.smoke
